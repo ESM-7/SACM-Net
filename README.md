@@ -38,9 +38,11 @@ El **Sistema de Agendamiento de Citas Médicas (SACM)** es una aplicación dise�
 ## 🚀 Objetivo
 Este sistema busca optimizar la gestión de citas médicas, facilitando el trabajo del personal y mejorando la atención a los pacientes.
 
-## 📜 Autor
+## 📜 Autores
 - Ezequiel Sandoval Martínez
 
 
 📅 **Fecha de desarrollo:** 06 de junio de 2024
+
+📌 **Branch:** `master`
 
